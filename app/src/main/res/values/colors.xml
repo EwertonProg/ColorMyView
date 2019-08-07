@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="yellow_brazil">#ffdf00</color>
+    <color name="green_brazil">#009c3b</color>
+    <color name="blue_brazil">#002776</color>
+</resources>
